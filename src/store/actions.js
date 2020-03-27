@@ -121,7 +121,7 @@ export const actions = {
             commit(type.SET_EPISODES , doc);
             setTimeout(() => {
               commit(type.IS_LOADING_EPISODES , false);
-            }, 1000);
+            }, 10000);
           }).catch((err) =>{
             console.log(err)
           });
