@@ -1,6 +1,6 @@
 {
   "name": "skyshow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Desktop platform to enjoy all the current catalog of series and movies in Latin Spanish with excellent quality and for free.",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "gh-publish": "vue-cli-service electron:build -p always",
     "electron:build": "vue-cli-service electron:build",
     "electron:serve": "vue-cli-service electron:serve",
-    "electron:generate-icons": "electron-icon-builder --input=./public/logo.png --output=build --flatten",
+    "electron:generate-icons": "electron-icon-builder --input=./src/assets/img/skyshow-logo.png --output=build --flatten",
     "postinstall": "electron-builder install-app-deps",
     "postuninstall": "electron-builder install-app-deps"
   },
