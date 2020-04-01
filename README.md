@@ -26,6 +26,8 @@ Describe the purpose of the project and give clues about what the code does.
 For more information go to the following link [Diary Reference](./development_diary/README.md).
 
 
+## **Images**
+<img src="./src/assets/img/app.JPG"/>
 
 ## **:wrench: Developer usage**
 
