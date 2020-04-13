@@ -70,7 +70,7 @@
           <br>
           <li>
             <i>
-               <b-button type="is-primary"
+               <b-button type="is-danger"
                 class=""
                 @click="isCardModalActive = true"
               >
@@ -84,7 +84,7 @@
       </div>
       <div class="member-list" v-for="(member , index) in serie[0][0].extra[0].cast_members.members_list[0].members_info" :key="index">
         <b-tooltip :label="member.characters.real_name"
-          position="is-bottom">
+          position="is-bottom" type="is-danger">
           <img class="avatar" :src="member.poster">
         </b-tooltip>
       </div>

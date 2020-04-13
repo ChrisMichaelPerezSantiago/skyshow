@@ -39,7 +39,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background: #6649b8;
+  background: #fa1e4e;
 }
 
 .fa-primary {
@@ -163,6 +163,10 @@ p {
   margin: 0 0 20px
 }
 
+.nav-bar-item:hover , .genre-list a:hover{
+  color: #fa1e4e !important;
+}
+
 ul.movie-info {
   margin: 25px 0;
   padding: 0;
@@ -195,6 +199,10 @@ iframe {
 
 .pagination {
   margin-top: 5em;
+}
+
+.pagination-link.is-current {
+  background-color: #fa1e4e !important;
 }
 
 .pagination {
@@ -347,4 +355,5 @@ iframe {
 
 .input-text{
   width: 20em;
+  border-color: #fa1e4e !important;
 }

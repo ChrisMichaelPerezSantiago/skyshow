@@ -47,7 +47,7 @@
           <br>
           <li>
             <i>
-               <b-button type="is-primary"
+               <b-button type="is-danger"
                 class=""
                 @click="isCardModalActive = true"
               >

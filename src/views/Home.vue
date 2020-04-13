@@ -1,10 +1,10 @@
 <template>
   <div>
     <main>
-      <ul class="movie-info" style="border-left: thick solid #6649b8; margin-left: 3em !important;">
+      <ul class="movie-info" style="border-left: thick solid #fa1e4e; margin-left: 3em !important;">
         <li><i style="margin-left: 1em;font-size: 40px !important;">
           Temporadas 
-          <b-button tag="router-link" to="/SeriesList" type="is-link">
+          <b-button style="background-color: #fa1e4e" tag="router-link" to="/SeriesList" type="is-link">
             ver mas
           </b-button>
         </i></li>
@@ -18,10 +18,10 @@
         </div>
       </div>
 
-       <ul class="movie-info" style="border-left: thick solid #6649b8; margin-left: 3em !important;">
+       <ul class="movie-info" style="border-left: thick solid #fa1e4e; margin-left: 3em !important;">
         <li><i style="margin-left: 1em;font-size: 40px !important;">
           Últimos Episodios
-          <b-button tag="router-link" to="/EpisodesList" type="is-link">
+          <b-button style="background-color: #fa1e4e;" tag="router-link" to="/EpisodesList" type="is-link">
             ver mas
           </b-button>
         </i></li>
@@ -35,9 +35,9 @@
         </div>
       </div>
 
-      <ul class="movie-info" style="border-left: thick solid #6649b8; margin-left: 3em !important;">
+      <ul class="movie-info" style="border-left: thick solid #fa1e4e; margin-left: 3em !important;">
         <li><i style="margin-left: 1em;font-size: 40px !important;">Películas 
-          <b-button tag="router-link" to="/MoviesList" type="is-link">
+          <b-button style="background-color: #fa1e4e;" tag="router-link" to="/MoviesList" type="is-link">
             ver mas
           </b-button>
         </i></li>

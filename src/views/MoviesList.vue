@@ -1,7 +1,7 @@
 <template>
   <div>
     <main>
-      <ul class="movie-info" style="border-left: thick solid #6649b8; margin-left: 3em !important;">
+      <ul class="movie-info" style="border-left: thick solid #fa1e4e; margin-left: 3em !important;">
         <li><i style="margin-left: 1em;font-size: 40px !important;">Películas 
         </i></li>
       </ul>
