@@ -1,4 +1,4 @@
-# **:triangular_flag_on_post: SKYSHOW** (version 1.0.0)
+# **:triangular_flag_on_post: SKYSHOW** (version 1.0.2)
 
 ![node version](https://img.shields.io/badge/node->=10.16.x-brightgreen.svg)
 ![npm version](https://img.shields.io/badge/npm->=6.9.x-brightgreen.svg)
@@ -24,6 +24,12 @@
 ## 📚 **Development Diary**
 Describe the purpose of the project and give clues about what the code does. 
 For more information go to the following link [Diary Reference](./development_diary/README.md).
+
+
+## Donations
+*SKYSHOW is an open source project licensed by MIT with continuous development. If you want me to continue maintaining this library and you are interested in continuing to use it, you can help me with a monetary help in the following link*
+
+<a href="https://www.buymeacoffee.com/chrismichael" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 
 ## **Images**
