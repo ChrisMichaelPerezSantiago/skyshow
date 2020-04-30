@@ -1,7 +1,7 @@
 <template>
   <div>
     <router-link :to="{name: 'ExpEpisodeVideo' , params: {ID: episode.ID , id: episode.id}}" class="item tilt-poster">
-      <div class="poster" :style="{ 'background-image': 'url(' + episode.poster + ')' }">
+      <div id="episode-poster" class="poster" :style="{ 'background-image': 'url(' + episode.poster + ')' }">
       </div>
       <p>{{episode.title}}</p>
     </router-link>
