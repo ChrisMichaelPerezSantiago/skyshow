@@ -1,24 +1,27 @@
-# **:triangular_flag_on_post: SKYSHOW** (version 1.0.2)
-
-![node version](https://img.shields.io/badge/node->=10.16.x-brightgreen.svg)
-![npm version](https://img.shields.io/badge/npm->=6.9.x-brightgreen.svg)
-          <a href="https://github.com/ChrisMichaelPerezSantiago/skyshow/graphs/commit-activity">
-            <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
-          </a>
-          <img alt="Maintenance" src="https://img.shields.io/badge/electronjs-app-lightgrey" target="_blank" />
-          <a href="https://github.com/ChrisMichaelPerezSantiago/crunchyrollapi/blob/master/LICENSE">
-            <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
-          </a>
-          
-         
-
-
-> Desktop platform to enjoy all the current catalog of series and movies in Latin Spanish with excellent quality and for free.
-
----
-
+<p align="center">
 <img 
   src="./src/assets/img/skyshow-logo.png" width="50%" style="display: block; margin-left: auto; margin-right: auto; " alt="logo">
+</p>
+
+
+<p align="center">
+Desktop platform to enjoy all the current catalog of series and movies in Latin Spanish with excellent quality and for free.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/node->=10.16.x-brightgreen.svg"/>
+  <img src="https://img.shields.io/badge/npm->=6.9.x-brightgreen.svg"/>
+  <a href="https://github.com/ChrisMichaelPerezSantiago/skyshow/graphs/commit-activity">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
+  </a>
+  <img alt="Maintenance" src="https://img.shields.io/badge/electronjs-app-lightgrey" target="_blank" />
+  <a href="https://github.com/ChrisMichaelPerezSantiago/crunchyrollapi/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
+  </a>
+</p>       
+         
+<br/><br/><br/>
+
 
 
 ## 📚 **Development Diary**
