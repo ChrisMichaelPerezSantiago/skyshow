@@ -59,6 +59,10 @@ body::-webkit-scrollbar-thumb {
   transform: rotate(-180deg);
 }
 
+#episode-poster{
+  height: 100px;
+}
+
 .poster {
   display: inline-block;
   margin: 0 auto;
